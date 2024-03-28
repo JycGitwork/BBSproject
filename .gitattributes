@@ -1,0 +1,8 @@
+bbs_0.sql filter=lfs diff=lfs merge=lfs -text
+front-admin filter=lfs diff=lfs merge=lfs -text
+front-web filter=lfs diff=lfs merge=lfs -text
+pom.xml filter=lfs diff=lfs merge=lfs -text
+web-backend filter=lfs diff=lfs merge=lfs -text
+backend-common filter=lfs diff=lfs merge=lfs -text
+bbs-backend filter=lfs diff=lfs merge=lfs -text
+bbs.sql filter=lfs diff=lfs merge=lfs -text
